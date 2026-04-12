@@ -12,3 +12,8 @@ class myclass:
 
     def sum(self):
         return self.a + self.b
+
+
+
+#モジュールのアップデート
+#.pyの拡張子だとコードがそのまま読み取れるみたい
